@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mengenal Vibe Coding"
-description: "There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..."
+description: "Pembahasan terkait apa itu vibe coding, bagaimana penerapannya serta apa saja sisi positif dan negatifnya"
 comments: true
 keywords: "Blog, Vibe Coding, Programming"
 Author: Felix Rizky Lesmana
