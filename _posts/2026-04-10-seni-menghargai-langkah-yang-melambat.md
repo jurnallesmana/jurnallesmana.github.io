@@ -19,7 +19,9 @@ Dalam ketidaksengajaanku membaca beberapa pemikiran lama, aku teringat satu hal:
 
 ### Menemukan Makna di Antara Celah
 
-Hari ini, aku mencoba sesuatu yang berbeda. Aku mencoba menikmati:
+Aku mulai belajar bahwa hidup yang bermakna tidak selalu terjadi pada peristiwa-peristiwa besar. Seringkali, ia bersembunyi di sela-sela rutinitas yang kita anggap membosankan.
+
+Hari ini, aku mencoba berhenti mencari jawaban besar dan mulai memperhatikan "celah-celah" kecil:
 * **Hening yang Berisi:** Menikmati sepuluh menit tanpa ponsel di pagi hari, menyadari bahwa keheningan bukanlah kekosongan, melainkan ruang untuk mendengar pikiran sendiri.
 * **Ritual yang Lambat:** Menyeduh kopi bukan sekadar untuk kafein, tapi untuk merasakan uapnya, hangat cangkirnya, dan jeda yang ia ciptakan sebelum hari menjadi bising.
 * **Penerimaan pada Ketidakpastian:** Menyadari bahwa rencana yang berantakan bukanlah kegagalan, melainkan kesempatan untuk melihat arah yang tidak pernah kita duga sebelumnya.
