@@ -1,4 +1,12 @@
 
+---
+layout: post
+title: Seni Menghargai Langkah Yang Melambat
+description: "Mengapa kita sering merasa bersalah saat tidak produktif?."
+comments: true
+keywords: "produktivitas, slow living, kesehatan mental, refleksi diri, filosofi hidup, apresiasi diri, berhenti sejenak."
+Author: Felix Rizky Lesmana
+---
 
 Seringkali, kita merasa bersalah saat tidak melakukan apa-apa. Di dunia yang bergerak begitu cepat, berhenti sejenak terasa seperti sebuah dosa besar. Kita merasa harus selalu "menghasilkan" sesuatu agar dianggap berharga.
 
