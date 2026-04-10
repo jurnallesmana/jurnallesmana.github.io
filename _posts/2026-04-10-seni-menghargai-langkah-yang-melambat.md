@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Seni Menghargai Langkah Yang Melambat
