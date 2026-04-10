@@ -15,7 +15,8 @@ Belakangan ini, aku menyadari bahwa ambisiku untuk segera menemukan 'benang mera
 
 Dulu, aku berpikir bahwa hidup adalah tentang berpindah dari satu pencapaian ke pencapaian berikutnya. Jika aku belum sampai di sana, artinya aku gagal. Namun, jika hidup hanya tentang garis finish, maka kita akan menghabiskan 99% waktu kita dalam rasa tidak puas hanya demi 1% momen kemenangan.
 
-Dalam ketidaksengajaanku membaca beberapa pemikiran lama, aku teringat satu hal: **Kita tidak kekurangan waktu, kita hanya membuang banyak waktu karena terlalu cemas tentang masa depan.**
+Dalam ketidaksengajaanku membaca beberapa pemikiran lama, aku teringat satu hal: 
+> **Kita tidak kekurangan waktu, kita hanya membuang banyak waktu karena terlalu cemas tentang masa depan.**
 
 ### Menemukan Makna di Antara Celah
 
