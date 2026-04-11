@@ -17,7 +17,7 @@ Seneca pernah menulis bahwa seseorang yang bisa tetap tenang di tengah kekacauan
 
 Belakangan ini, aku mencoba melakukan beberapa hal untuk menjaga ruang itu:
 
-* **Seni Tidak Tahu segalanya:** Kita tidak harus punya opini tentang setiap berita yang viral. Tidak tahu apa yang sedang terjadi di dunia selama beberapa jam ternyata tidak membuat kita tertinggal; itu justru membuat kita tetap waras.
+* **Seni Tidak Tahu segalanya:** Kita tidak harus punya opini tentang setiap berita yang viral. Tidak tahu apa yang sedang terjadi di dunia selama beberapa jam ternyata tidak membuat kita tertinggal, itu justru membuat kita tetap waras.
 * **Memilih Apa yang Masuk:** Seperti menjaga pola makan, aku mulai menjaga "pola informasi". Jika suatu konten hanya menyisakan rasa cemas atau rasa rendah diri, aku memilih untuk menjauh.
 * **Menulis sebagai Pembersih:** Menulis di blog ini adalah caraku mengeluarkan kebisingan dari kepala. Saat pikiran dituangkan ke dalam kata-kata, mereka kehilangan kekuatannya untuk mengacak-acak perasaan.
 
