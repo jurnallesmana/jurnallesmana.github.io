@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Seni Menghargai Langkah Yang Melambat
+title: Seni Menghargai Langkah yang Melambat
 description: "Mengapa kita sering merasa bersalah saat tidak produktif?."
 comments: true
 keywords: "produktivitas, slow living, kesehatan mental, refleksi diri, filosofi hidup, apresiasi diri, berhenti sejenak."
