@@ -1,9 +1,9 @@
 # Site settings
-title_left    : "Think"
-title_right   : "Seneca" # default: ""
-description   : "Selaras dengan Semesta, Belajar dari Peristiwa."
-keywords      : "Stoic, Self, Improvements, Life, Think, blog, Seneca, minimalist, Marcus Aurelius, Epictetus"
-url           : https://thinkseneca.github.io # site url
+title_left    : "Jurnal"
+title_right   : "Lesmana" # default: ""
+description   : "Ini adalah jurnal perjalanan pribadi saya, tempat dimana saya membagikan isi pikiran dan kegiatan-kegiatan yang saya lakukan, dimana sekiranya saya berharap bahwa itu bisa memberikan insight yang baik."
+keywords      : ""
+url           : https://jurnallesmana.github.io # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
