@@ -1,9 +1,9 @@
 # Site settings
-title_left    : "Jurnal"
-title_right   : "Lesmana" # default: ""
-description   : "Selamat datang di Jurnal Lesmana. Ini adalah tempat saya mencatat isi pikiran dan berbagai kegiatan sehari-hari. Isinya campur aduk, tapi semoga ada hal menarik atau wawasan baru yang bisa kamu ambil dari sini."
+title_left    : "Ruang"
+title_right   : "Kendali" # default: ""
+description   : "Seni menguasai diri, mengelola emosi, dan menemukan ketenangan di tengah dunia yang riuh melalui lensa Stoikisme modern."
 keywords      : ""
-url           : https://jurnallesmana.github.io # site url
+url           : https://ruangkendali.github.io # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
